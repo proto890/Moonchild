@@ -1,0 +1,45 @@
+Position : 65
+田島竜之介
+
+Position : 114
+ようこそ『快楽の掟』へ。
+
+Position : 136
+あなたはこの物語の主人公です。
+
+Position : 15e
+主人公には、あらかじめ
+
+Position : 179
+という名前がついています。
+
+Position : 19d
+主人公の名前を変更しますか？
+
+Position : 1cf
+変更する
+
+Position : 1dd
+変更しない
+
+Position : 221
+主人公の名前を入力してください。
+
+Position : 24b
+名前
+
+Position : 265
+あなたの名前は「
+
+Position : 27a
+」です。
+
+Position : 28c
+これでいいですか？
+
+Position : 2b4
+はい
+
+Position : 2be
+いいえ
+
